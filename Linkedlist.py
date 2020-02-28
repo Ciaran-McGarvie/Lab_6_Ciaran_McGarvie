@@ -16,7 +16,7 @@ class Linkedlist:
 		self.nsize = s
 
 	def gettail(self):
-		return(self.size)
+		return(self.tail)
 	def settail(self, t):
 		self.tail = t 
 
