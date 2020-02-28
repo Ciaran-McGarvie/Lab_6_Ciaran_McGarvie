@@ -8,12 +8,12 @@ class Linkedlist:
 	def gethead(self):
 		return(self.head)
 	def sethead(self, h):
-		self.nhead = h
+		self.head = h
 
 	def getsize(self):
 		return(self.size)
 	def setsize(self, s):
-		self.nsize = s
+		self.size = s
 
 	def gettail(self):
 		return(self.tail)
