@@ -37,6 +37,7 @@ def main():
 	ll = Linkedlist()
 	ll.addNode(1000)
 	ll.addNode(2000)
+	print(ll.getsize())
 
 
 if __name__ == "__main__": 
